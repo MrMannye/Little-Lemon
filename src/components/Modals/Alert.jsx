@@ -1,5 +1,7 @@
 import React from 'react'
 
+import "./Modal.scss";
+
 export default function Alert({name}) {
   return (
     <div className='alert'>
