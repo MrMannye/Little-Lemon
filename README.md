@@ -130,7 +130,3 @@ In this project, from the beginning with figma wireframe design and figma UI des
 - Clone the repository
 - Run `npm install`
 - Run `npm start`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
